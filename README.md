@@ -1,6 +1,6 @@
 ![Awesome Hacking](Orldo.png)
 
-# [Awesome Hacking]([https://github.com/Hack-with-Github/Awesome-Hacking](https://github.com/syed-sameer-ul-hassan/Awesome-Hacking)
+# [Awesome Hacking]([[https://github.com/Hack-with-Github/Awesome-Hacking](https://github.com/syed-sameer-ul-hassan/Awesome-Hacking](https://github.com/syed-sameer-ul-hassan/Awesome-Hacking)
 
 **A collection of awesome lists for hackers, pentesters & security researchers.**
 
