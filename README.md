@@ -1,4 +1,4 @@
-![Awesome Hacking](Orildo.png)
+![Awesome Hacking](Orldo.png)
 
 # [Awesome Hacking]([https://github.com/Hack-with-Github/Awesome-Hacking](https://github.com/syed-sameer-ul-hassan/Awesome-Hacking)
 
